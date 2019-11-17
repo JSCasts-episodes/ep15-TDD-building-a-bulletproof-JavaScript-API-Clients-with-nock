@@ -1,0 +1,50 @@
+[
+	{
+		"url": "https://api.github.com/repos/JSCasts-episodes/ep1-jsdoc/issues/1",
+		"repository_url": "https://api.github.com/repos/JSCasts-episodes/ep1-jsdoc",
+		"labels_url": "https://api.github.com/repos/JSCasts-episodes/ep1-jsdoc/issues/1/labels{/name}",
+		"comments_url": "https://api.github.com/repos/JSCasts-episodes/ep1-jsdoc/issues/1/comments",
+		"events_url": "https://api.github.com/repos/JSCasts-episodes/ep1-jsdoc/issues/1/events",
+		"html_url": "https://github.com/JSCasts-episodes/ep1-jsdoc/issues/1",
+		"id": 522470412,
+		"node_id": "MDU6SXNzdWU1MjI0NzA0MTI=",
+		"number": 1,
+		"title": "example issue no.1",
+		"user": {
+			"login": "wojtek-krysiak",
+			"id": 825861,
+			"node_id": "MDQ6VXNlcjgyNTg2MQ==",
+			"avatar_url": "https://avatars3.githubusercontent.com/u/825861?v=4",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/wojtek-krysiak",
+			"html_url": "https://github.com/wojtek-krysiak",
+			"followers_url": "https://api.github.com/users/wojtek-krysiak/followers",
+			"following_url": "https://api.github.com/users/wojtek-krysiak/following{/other_user}",
+			"gists_url": "https://api.github.com/users/wojtek-krysiak/gists{/gist_id}",
+			"starred_url": "https://api.github.com/users/wojtek-krysiak/starred{/owner}{/repo}",
+			"subscriptions_url": "https://api.github.com/users/wojtek-krysiak/subscriptions",
+			"organizations_url": "https://api.github.com/users/wojtek-krysiak/orgs",
+			"repos_url": "https://api.github.com/users/wojtek-krysiak/repos",
+			"events_url": "https://api.github.com/users/wojtek-krysiak/events{/privacy}",
+			"received_events_url": "https://api.github.com/users/wojtek-krysiak/received_events",
+			"type": "User",
+			"site_admin": false
+		},
+		"labels": [
+
+		],
+		"state": "open",
+		"locked": false,
+		"assignee": null,
+		"assignees": [
+
+		],
+		"milestone": null,
+		"comments": 0,
+		"created_at": "2019-11-13T21:01:28Z",
+		"updated_at": "2019-11-13T21:01:28Z",
+		"closed_at": null,
+		"author_association": "CONTRIBUTOR",
+		"body": ""
+	}
+]
